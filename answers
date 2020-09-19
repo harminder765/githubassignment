@@ -1,0 +1,14 @@
+ Ans1) Version control is a system that record changes to a file or set of files over time so that early versions can be restored and are used by software teams for source code.
+ usage of vc :-1) Archive successive version of your work to date
+               2) Maintain package revision history 
+               3) Rcover from unwanted changes or accidental deletions, through an undo facility. 
+ Ans2) commit:-A commit is a snapshot of your git repository at point in time. over time commit should tell a story of history of your repository and it come to be the way that it currently is.
+ Ans3) Branching is the way to work on different versions of a repository at one time. By default your repository has one branch named master which is considered to be thr definitive branch. We use branches to experiment and make edits before committing them to master.
+ Ans5)Git push:- The git push command is used to transfer or push the commit, which is made on a local branch in your computer to a remote repository like github.
+       Git pull:- Git pull is a magical way to perform a combined operstion of git-fitch and git-merge with a single command. The git pull command is used to fitch and download content from aremote repository and immidiately update the local repository to match that content.
+       Difference b/w gitpull and gitpush
+       git pull:-1)Its means you are fetching the last modified repository.
+         2)In git pull there are more chancesto create the merge conflict.
+       git push:- 1)its means you are returning the repository after modifying it.
+         2)It can be used with single repository only.
+ Ans6)   
